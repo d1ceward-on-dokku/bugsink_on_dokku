@@ -69,7 +69,7 @@ dokku domains:set bugsink bugsink.example.com
 Map the internal port `8000` to the external port `80`:
 
 ```bash
-dokku proxy:ports-set bugsink http:80:8000
+dokku ports:set bugsink http:80:8000
 ```
 
 ### 5. Deploy the App
