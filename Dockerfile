@@ -1,0 +1,3 @@
+ARG BUGSINK_VERSION="1.5.4"
+
+FROM bugsink/bugsink:${BUGSINK_VERSION}
