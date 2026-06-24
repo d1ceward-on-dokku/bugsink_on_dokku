@@ -1,6 +1,6 @@
 ![](.github/images/repo_header.png)
 
-[![Bugsink](https://img.shields.io/badge/Bugsink-2.2.2-blue.svg)](https://github.com/bugsink/bugsink/releases/tag/2.2.2)
+[![Bugsink](https://img.shields.io/badge/Bugsink-2.3.0-blue.svg)](https://github.com/bugsink/bugsink/releases/tag/2.3.0)
 [![Dokku](https://img.shields.io/badge/Dokku-Repo-blue.svg)](https://github.com/dokku/dokku)
 
 # Run Bugsink on Dokku
